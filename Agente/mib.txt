@@ -1,0 +1,11 @@
+iso.3.6.1.2.1.1.1.0 = STRING: "linux gvelasco-lap 5.11.0-38-generic Ubuntu SMP Sun Nov 14 UTC 21 x86_64"
+iso.3.6.1.2.1.1.2.0 = OID iso.3.6.1.4.1.8072.3.2.10
+iso.3.6.1.2.1.1.3.0 = Timeticks: (21200734) 5:53:27.34
+iso.3.6.1.2.1.1.4.0 = = STRING: "gavbi.vellop@gmail.com"
+iso.3.6.1.2.1.1.5.0 = STRING: "Gvelasco"
+iso.3.6.1.2.1.1.9.1.2.1 = OID: iso.3.6.1.6.3.10.3.1.1
+iso.3.6.1.2.1.1.9.1.2.2 = OID: iso.3.6.1.6.3.10.3.1.1
+iso.3.6.1.2.1.2.2.1.2.2 = STRING: "Intel Corporation Wireless-AC"
+iso.3.6.1.2.1.2.2.1.6.2 = Hex-STRING: 08 02 3E 94 77 AB
+iso.3.6.1.2.1.2.2.1.6.3 = Hex-STRING: 52 54 00 58 12 8C
+
